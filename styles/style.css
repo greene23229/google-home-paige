@@ -1,1 +1,10 @@
-img{width: 20%;}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+main{
+    display: flex;
+    flex-direction: ;
+    justify-content: ;
+    align-items: ;
+}
