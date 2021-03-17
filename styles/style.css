@@ -1,10 +1,14 @@
+
 nav{
     display: flex;
     justify-content: space-between;
 }
 main{
     display: flex;
-    flex-direction: ;
+    flex-direction:row-reverse ;
     justify-content: ;
     align-items: ;
+}
+footer{
+
 }
