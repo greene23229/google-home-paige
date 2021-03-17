@@ -1,14 +1,25 @@
-
-nav{
+body{
+    height:98vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+nav {
     display: flex;
     justify-content: space-between;
 }
 main{
     display: flex;
-    flex-direction:row-reverse ;
-    justify-content: ;
-    align-items: ;
+    flex-direction:column ;
+    justify-content:center ;
+    align-items:center ;
 }
 footer{
+    display: flex;
+    justify-content: space-between;
 
+}
+.logo{
+    width: 350px;
+    height: 200px;
 }
